@@ -10,4 +10,3 @@ Different modalities of data provides complementary information for understandin
 - Tabular data: Open Street Map(OSM)
 
 ## Model Architecture
-![Uploading Figure1.jpg…]()
