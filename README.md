@@ -8,3 +8,6 @@ Different modalities of data provides complementary information for understandin
 - Street view Images (SVIs): Google Map Platform
 - Satellite Images: Mapbox
 - Tabular data: Open Street Map(OSM)
+
+## Model Architecture
+![Uploading Figure1.jpg…]()
