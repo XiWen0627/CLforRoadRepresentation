@@ -2,7 +2,7 @@
 
 ## Intuition
 Different modalities of data provides complementary information for understanding road characteristics.
-
+![Intuition](Intuition.jpg)
 
 ## Modalities and Data Source
 - Street view Images (SVIs): Google Map Platform
