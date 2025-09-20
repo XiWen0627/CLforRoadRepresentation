@@ -1,4 +1,5 @@
 # Contrastive Multi-Modal Graph Representation Learning for Road-level Operating Mode Distribution Prediction using Open Source Data.
+## Brief Introduction
 
 ## Intuition
 Different modalities of data provides complementary information for understanding road characteristics.
